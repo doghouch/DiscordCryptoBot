@@ -1,4 +1,4 @@
-# dawgyCryptoBot
+# DiscordCryptoBot
 ## Welcome
 This bot was originally designed to pull live price data on the Crypto.com Discord server.
 
